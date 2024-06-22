@@ -1,4 +1,4 @@
-# ⭐DO NOT FORGET TO STAR THIS REPO⭐
+# ⭐Next.js Project⭐
 
 ---
 
