@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import * as XLSX from 'xlsx';
-import "../../data/data.json"
 
 const SalesTable = () => {
   const [data, setData] = useState([]);
