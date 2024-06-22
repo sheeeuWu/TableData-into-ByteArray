@@ -1,0 +1,62 @@
+[
+    {
+        "month": "January",
+        "sales": 15000,
+        "profit": 5000
+    },
+    {
+        "month": "February",
+        "sales": 12000,
+        "profit": 4000
+    },
+    {
+        "month": "March",
+        "sales": 18000,
+        "profit": 6000
+    },
+    {
+        "month": "April",
+        "sales": 22000,
+        "profit": 8000
+    },
+    {
+        "month": "May",
+        "sales": 20000,
+        "profit": 7000
+    },
+    {
+        "month": "June",
+        "sales": 17000,
+        "profit": 5500
+    },
+    {
+        "month": "July",
+        "sales": 19000,
+        "profit": 6200
+    },
+    {
+        "month": "August",
+        "sales": 21000,
+        "profit": 7500
+    },
+    {
+        "month": "September",
+        "sales": 16000,
+        "profit": 5200
+    },
+    {
+        "month": "October",
+        "sales": 23000,
+        "profit": 8700
+    },
+    {
+        "month": "November",
+        "sales": 24000,
+        "profit": 9000
+    },
+    {
+        "month": "December",
+        "sales": 25000,
+        "profit": 9500
+    }
+]
